@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RedMart</string>
+    <string name="loading">Loading</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="added_to_cart">Added to Cart</string>
+    <string name="price">%.2f SGD</string>
+   
+</resources>
